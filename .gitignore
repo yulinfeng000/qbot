@@ -1,0 +1,6 @@
+.venv
+.vscode
+**/__pycache__
+dist
+build
+blive.egg-info
